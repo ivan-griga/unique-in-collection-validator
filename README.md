@@ -1,4 +1,4 @@
-# unique-in-collection-validator
+# Symfony unique in collection validator
 
 This symfony validator validates a form collection using the "All" assertion, and takes an optional parameters :
 1) array of fields which together should be unique;
