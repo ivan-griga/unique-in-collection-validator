@@ -1,6 +1,6 @@
 # unique-in-collection-validator
 
-This validator validates a form collection using the "All" assertion, and takes an optional parameters :
+This symfony validator validates a form collection using the "All" assertion, and takes an optional parameters :
 1) array of fields which together should be unique;
 2) error message;
 2) error path - field for error message.
